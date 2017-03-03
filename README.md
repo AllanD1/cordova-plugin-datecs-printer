@@ -29,6 +29,9 @@ These models were reported as working as expected:
 - DATECS DPP 350
 - EPSON TM P80
 - Bixolon SPP-R210
+- MPT-II - 58mm
+- DAPPER DP-HT201 58mm
+
 
 ### Example
 ```javascript
